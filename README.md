@@ -12,9 +12,6 @@ The output will then be passed to a filter and an amplifier that will treat the 
 ![image](https://user-images.githubusercontent.com/124648406/217668296-38a1b26e-5e6d-4204-9dc3-cf1f5735ddfb.png)
 
 
-# Final Build
-![image](https://user-images.githubusercontent.com/124648406/217668589-0f5c9522-f959-4786-9be8-0aa8d881bc5b.png)
-
 
 
 # Notes
